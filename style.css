@@ -1,0 +1,25 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    background-color: rgb(167, 121, 53);
+    font-size: 4em;
+
+}
+#myCheckBox{
+    width: 30px;
+    height: 30px;
+    padding: 4px;
+}
+
+#mySubmit{
+    padding: 20px 20px;
+    margin: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: rgb(103, 126, 103);
+    color: white;
+    border-radius: 6px;
+}
+p{
+    font-size: 30px;
+}
